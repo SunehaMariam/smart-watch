@@ -101,6 +101,7 @@ body {
     padding: 20px;
     box-sizing: border-box;
     position: relative;
+    animation: slideDown 0.3s forwards;
 }
 
 @keyframes slideDown {
